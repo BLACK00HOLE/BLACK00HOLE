@@ -58,6 +58,3 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/samyukthasudhakar"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
 <a href="https://www.instagram.com/samyuktha._.sudhakar/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
 #
-
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/manikandan_02?theme=dark&font=Eczar&ext=heatmap)
