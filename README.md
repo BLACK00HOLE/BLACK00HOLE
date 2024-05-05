@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 📫 Reach out to me at [smanijuju@gmail.com](smanijuju@gmail.com)  
 
 #
-
+<img src="https://leetcode.com/static/images/badges/2024/gif/2024-02.gif" width="40px"></img>
+<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manikandan_02?theme=dark&font=Eczar&ext=heatmap)
 
 #
