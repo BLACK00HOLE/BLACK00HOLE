@@ -41,11 +41,11 @@ Here are some ideas to get you started:
 #
 
 ### 📈 Github Stats
-<img src="https://komarev.com/ghpvc/?username=samyukthasudhakar"/>
+<img src="https://komarev.com/ghpvc/?username=BLACK00HOLE"/>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samyukthasudhakar&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK00HOLE&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=samyukthasudhakar&show_icons=true&theme=tokyonight)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BLACK00HOLE&show_icons=true&theme=tokyonight)
 
 #
 
