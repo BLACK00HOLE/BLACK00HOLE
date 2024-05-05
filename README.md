@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 👨🏽‍💻 About Me
 🚀 Currently working as a SDET at [rocketlane](https://www.rocketlane.com/)  
-🌱 Learning full stack development , DSA and testing frameworks
+🌱 Learning full stack development , DSA and testing frameworks  
 👯 Looking out for opportunities to collaborate in web dev and C++ projects  
 ⚡ Fun fact : Love hanging out with new people and everything related to night outs.  
 📸 Mobile photographer  
