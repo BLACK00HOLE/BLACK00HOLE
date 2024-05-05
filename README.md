@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 ### 👨🏽‍💻 About Me
 🚀 Currently working as a SDET at [rocketlane](https://www.rocketlane.com/)  
-🌱 Learning full stack development @ [neoG'22](https://neog.camp/about)  
+🌱 Learning full stack development , DSA and testing frameworks
 👯 Looking out for opportunities to collaborate in web dev and C++ projects  
 ⚡ Fun fact : Love hanging out with new people and everything related to night outs.  
-📸 Amateur photographer  
+📸 Mobile photographer  
 📫 Reach out to me at [smanijuju@gmail.com](smanijuju@gmail.com)  
 
 #
