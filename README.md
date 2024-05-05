@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 #
 
 ### ☕ Let's Connect
-<a href="https://twitter.com/samyuktha7300"><img src="https://cdn.cdnlogo.com/logos/t/48/twitter.png" alt="Twitter Account" width="35"/></a>
-<a href="https://www.linkedin.com/in/samyukthasudhakar"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
-<a href="https://www.instagram.com/samyuktha._.sudhakar/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
+<a href="https://www.linkedin.com/in/manikandan-selvaraj-593a23211"><img src="https://cdn.cdnlogo.com/logos/l/66/linkedin-icon.svg" alt="LinkedIn Account" width="30"/></a>
+<a href="https://www.instagram.com/_atheist_02/"><img src="https://cdn.cdnlogo.com/logos/i/92/instagram.svg" alt="Instagram Account" width="30"/></a>
 #
