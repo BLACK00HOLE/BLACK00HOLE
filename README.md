@@ -48,9 +48,10 @@ Here are some ideas to get you started:
 ### 📈 Github Stats
 <img src="https://komarev.com/ghpvc/?username=BLACK00HOLE"/>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK00HOLE&theme=tokyonight) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BLACK00HOLE&theme=dark&border_radius=6&card_width=534)](https://git.io/streak-stats)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BLACK00HOLE&theme=tokyonight) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BLACK00HOLE&show_icons=true&theme=tokyonight)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BLACK00HOLE&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BLACK00HOLE&theme=dark&border_radius=6&card_width=534)](https://git.io/streak-stats)
+
 
 #
 
