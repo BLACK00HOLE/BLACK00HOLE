@@ -52,6 +52,7 @@ Here are some ideas to get you started:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=BLACK00HOLE&show_icons=true&theme=tokyonight)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BLACK00HOLE&" alt="BLACK00HOLE" /></p>
 #
 
 ### ☕ Let's Connect
