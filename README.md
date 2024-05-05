@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hello 🙋🏽‍♀️, I'm Manikadan Selvaraj</h1>
+<h1 align="center">Hello 🙋🏽‍♂️, I'm Manikadan Selvaraj</h1>
 <h3 align="center"></h3>
 
-### 👩🏽‍💻 About Me
+### 👨🏽‍💻 About Me
 🚀 Currently working as a SDET at [rocketlane](https://www.rocketlane.com/)  
 🌱 Learning full stack development @ [neoG'22](https://neog.camp/about)  
 👯 Looking out for opportunities to collaborate in web dev and C++ projects  
